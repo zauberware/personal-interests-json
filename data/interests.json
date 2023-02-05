@@ -4,6 +4,27 @@
       "name":"Agile methods"
     },
     {  
+      "name":"Computers"
+    },
+    {  
+      "name":"Technology"
+    },
+    {  
+      "name":"Television"
+    },
+    {  
+      "name":"Black history"
+    },
+    {  
+      "name":"Black British history"
+    },
+    {  
+      "name":"Pride"
+    },
+    {  
+      "name":"Video Games"
+    },
+    {  
       "name":"Activism"
     },
     {  
@@ -19,7 +40,16 @@
       "name":"Blogging"
     },
     {  
+      "name":"Newspaper"
+    },
+    {  
+      "name":"Current Affairs"
+    },
+    {  
       "name":"Coaching"
+    },
+    {  
+      "name":"Training"
     },
     {  
       "name":"Corporate Social Responsibility"
@@ -62,6 +92,12 @@
     },
     {  
       "name":"Europe"
+    },
+    {  
+      "name":"United Kingdom"
+    },
+    {  
+      "name":"United States"
     },
     {  
       "name":"Fair Finance"
@@ -142,6 +178,9 @@
       "name":"Creativity"
     },
     {  
+      "name":"Content Creation"
+    },
+    {  
       "name":"Food"
     },
     {  
@@ -160,6 +199,12 @@
       "name":"Music"
     },
     {  
+      "name":"Singing"
+    },
+    {  
+      "name":"Band"
+    },
+    {  
       "name":"Muslim Community"
     },
     {  
@@ -170,6 +215,18 @@
     },
     {  
       "name":"Politics"
+    },
+    {  
+      "name":"Prime Ministers"
+    },
+    {  
+      "name":"Ministers"
+    },
+    {  
+      "name": "Politicians"
+    },
+    {  
+      "name":"Government"
     },
     {  
       "name":"Project Management"
